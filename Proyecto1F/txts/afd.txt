@@ -1,0 +1,33 @@
+Estado: 0
+Aceptacion: False
+Transicion: 0 Con: E
+Transicion: 1 Con: b
+Transicion: 2 Con: a
+Estado: 1
+Aceptacion: False
+Transicion: 1 Con: E
+Transicion: 1 Con: b
+Transicion: 2 Con: a
+Estado: 2
+Aceptacion: False
+Transicion: 2 Con: E
+Transicion: 3 Con: b
+Estado: 3
+Aceptacion: False
+Transicion: 3 Con: E
+Transicion: 4 Con: b
+Estado: 4
+Aceptacion: True
+Transicion: 4 Con: E
+Transicion: 5 Con: b
+Transicion: 6 Con: a
+Estado: 5
+Aceptacion: True
+Transicion: 5 Con: E
+Transicion: 5 Con: b
+Transicion: 6 Con: a
+Estado: 6
+Aceptacion: True
+Transicion: 6 Con: E
+Transicion: 5 Con: b
+Transicion: 6 Con: a
