@@ -1,3 +1,9 @@
+# Cristina Bautista
+# 161260
+
+# Proyecto 1 Disenio de Lenguajes
+
+
 # Imports necesarios
 import functions
 from graphviz import Digraph

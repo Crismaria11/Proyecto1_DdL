@@ -1,3 +1,9 @@
+# Cristina Bautista
+# 161260
+
+# Proyecto 1 Disenio de Lenguajes
+
+
 import functions
 import afnToAfd
 from graphviz import Digraph
